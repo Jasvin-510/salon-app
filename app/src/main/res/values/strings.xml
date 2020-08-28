@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">SaloonApp</string>
+    <string name="id">ID</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="name">name</string>
+    <string name="mobile_no">mobile no</string>
+    <string name="address">address</string>
+    <string name="button">Button</string>
+    <string name="register">register</string>
+    <string name="registration_for_saloon">registration for saloon</string>
+    <string name="saloon_name">saloon name</string>
+    <string name="category_for_men">category for men</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="price">price</string>
+    <string name="category_for_women">category for women</string>
+    <string name="submit">submit</string>
+    <string name="city">city</string>
+    <string name="textview">textview</string>
+    <string name="login_for_saloon">login for saloon</string>
+    <string name="choose_logo">choose logo</string>
+    <string name="hair_cutting">Hair cutting</string>
+    <string name="hair_colour">Hair colour</string>
+    <string name="hair_styling">Hair styling</string>
+    <string name="facial_and_skin_care">Facial and skin care</string>
+    <string name="massages">Massages</string>
+    <string name="eyebrow">Eyebrow</string>
+    <string name="nail_service">Nail service</string>
+    <string name="facial">Facial</string>
+    <string name="custom_makeup">Custom Makeup</string>
+    <string name="contact_number">CONTACT NUMBER</string>
+    <string name="complete">COMPLETE</string>
+    <string name="category_selected_for_women">CATEGORY SELECTED FOR WOMEN</string>
+    <string name="category_selected_for_men">Category selected for men</string>
+    <string name="change_account_info">change account info</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="saloons">SALOONS</string>
+    <string name="history">HISTORY</string>
+    <string name="client_info">CLIENT INFO</string>
+    <string name="saloon_info">SALOON INFO</string>
+    <string name="rating">RATING</string>
+    <string name="client_address">CLIENT ADDRESS</string>
+    <string name="give_rating">Give Rating</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">WELCOME</string>
+    <string name="saloon">SALOON</string>
+    <string name="customer">CUSTOMER</string>
+    <string name="don_t_have_an_account_click_here">Don\'t Have an Account?Click here</string>
+    <string name="upload_document">upload_document</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="area_name">Area Name</string>
+    <string name="salon">salon</string>
+    <string name="salons">Salons</string>
+    <string name="registration_for_salon">Registration For Salon</string>
+    <string name="salon_name">salon name</string>
+</resources>

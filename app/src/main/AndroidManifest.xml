@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.saloonapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".saloon_update_info"></activity>
+        <activity android:name=".timepass1" />
+        <activity android:name=".client_update_info" />
+        <activity android:name=".client_filter" />
+        <activity android:name=".give_rating" />
+        <activity android:name=".client_rating" />
+        <activity android:name=".saloon_history" />
+        <activity android:name=".saloon_menu_1" />
+        <activity android:name=".client_history" />
+        <activity android:name=".client_menu_1" />
+        <activity android:name=".saloon_homepage2" />
+        <activity android:name=".saloon_homepage" />
+        <activity android:name=".client_saloon_info" />
+        <activity android:name=".client_homepage" />
+        <activity android:name=".register_saloon" />
+        <activity android:name=".login_saloon" />
+        <activity android:name=".register_client" />
+        <activity android:name=".login_client" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
